@@ -4,3 +4,5 @@ This repository contains the implementation of some basic Machine learning algor
 
 Contents:
 - Unsupervised learning basic approaches
+- Very similar to it, a notebook with PCA and t-sne (with some extensions on the PCA)
+- 
