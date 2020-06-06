@@ -4,6 +4,7 @@ This repository contains the implementation of some basic Machine learning algor
 
 Contents:
 - Unsupervised learning basic approaches
+- Clustering (K-means and hierarchical)
 - Very similar to it, a notebook with PCA and t-sne (with some extensions on the PCA)
 - neural nets with keras 
 - unsupervised learning example using ecommerce data set (topic modelling)
