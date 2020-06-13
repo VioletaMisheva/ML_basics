@@ -8,3 +8,4 @@ Contents:
 - Very similar to it, a notebook with PCA and t-sne (with some extensions on the PCA)
 - neural nets with keras 
 - unsupervised learning example using ecommerce data set (topic modelling)
+- NLP basics
